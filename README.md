@@ -5,7 +5,7 @@
 https://www.youtube.com/watch?v=IONpYgEfk40&t=771s
 
 ### 1. 메뉴 만들기
-<img src="https://user-images.githubusercontent.com/50513500/162795622-7b348f99-d12b-4cc6-9d0f-87da95990fb8.PNG"  width="2100" height="900"/>
+<img src="https://user-images.githubusercontent.com/50513500/162795622-7b348f99-d12b-4cc6-9d0f-87da95990fb8.PNG"  width="950" height="450"/>
 
 ##### 구현
 * 배경 이미지 배치
