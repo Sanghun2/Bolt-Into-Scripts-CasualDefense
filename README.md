@@ -2,7 +2,7 @@
 볼트로 작성된 캐주얼 디펜스게임을 보고 스크립트로 바꿔서 구현한 버전
 https://www.youtube.com/watch?v=IONpYgEfk40&t=771s
 
-https://i.ytimg.com/an_webp/IONpYgEfk40/mqdefault_6s.webp?du=3000&sqp=CJS60ZIG&rs=AOn4CLD2r6L-PsVTDbgH22LsDbe5op4m6Q
+![image](https://user-images.githubusercontent.com/50513500/162796730-d277c894-c6d3-4591-9749-b079ca5ae5e1.png)
 
 ### 1. 메뉴 만들기
 <img src="https://user-images.githubusercontent.com/50513500/162795622-7b348f99-d12b-4cc6-9d0f-87da95990fb8.PNG"  width="950" height="450"/>
