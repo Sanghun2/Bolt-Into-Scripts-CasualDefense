@@ -1,5 +1,6 @@
-# # [Bolt Into Scripts]캐주얼 디펜스
+# [Bolt Into Scripts]캐주얼 디펜스
 볼트로 작성된 캐주얼 디펜스게임을 보고 스크립트로 바꿔서 구현한 버전
+
 https://www.youtube.com/watch?v=IONpYgEfk40&t=771s
 
 ![image](https://user-images.githubusercontent.com/50513500/162796730-d277c894-c6d3-4591-9749-b079ca5ae5e1.png)
