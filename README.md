@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=IONpYgEfk40&t=771s
 ### 2. 패럴랙스를 곁들인 카메라 이동
 
 ##### 구현
+* 화면이동 기능
+* 버튼으로 화면이동 조작
