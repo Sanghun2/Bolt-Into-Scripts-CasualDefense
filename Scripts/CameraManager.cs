@@ -6,7 +6,7 @@ using UnityEngine;
 public class CameraManager : MonoBehaviour
 {
     [Header("Ä«¸Þ¶ó")]
-    [SerializeField] Camera mainCamera;
+    [SerializeField] private Camera mainCamera;
 
     private bool isMovable = default;
     private float cameraSpeed = default;
@@ -23,7 +23,7 @@ public class CameraManager : MonoBehaviour
     {
         if (IsMovable())
         {
-            mainCamera.transform.position += rightVec * cameraSpeed * Time.deltaTime;
+            MoveCamera();
             BackgroundScroller.Instance.MoveBackground(cameraSpeed / SPEED_VALUE);
         }
     }
@@ -75,5 +75,10 @@ public class CameraManager : MonoBehaviour
         }
 
         return isMovable;
+    }
+
+    public void MoveCamera()
+    {
+        mainCamera.transform.position += rightVec * cameraSpeed * Time.deltaTime;
     }
 }

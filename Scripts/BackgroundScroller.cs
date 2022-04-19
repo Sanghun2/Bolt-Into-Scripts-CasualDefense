@@ -26,7 +26,5 @@ public class BackgroundScroller : MonoBehaviour
         {
             s.gameObject.transform.position += rightVec * s.ScrollSpeed * speedValue * Time.deltaTime;
         }
-
-        print("¿Ãµø¡ﬂ");
     }
 }
