@@ -20,11 +20,11 @@ public class BackgroundScroller : MonoBehaviour
         rightVec = Vector3.right;
     }
 
-    public void MoveBackground(float speedValue)
+    public void MoveBackground(float unitValue)
     {
         foreach (var s in scrollInfo)
         {
-            s.gameObject.transform.position += rightVec * s.ScrollSpeed * speedValue * Time.deltaTime;
+            s.gameObject.transform.position += unitValue * rightVec * s.ScrollSpeed * Time.deltaTime;
         }
     }
 }
