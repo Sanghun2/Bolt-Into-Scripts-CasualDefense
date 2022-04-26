@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Animator), typeof(BoxCollider2D))]
+[RequireComponent(typeof(Animator), typeof(BoxCollider2D), typeof(UnitController))]
 public class UnitInfo : MonoBehaviour
 {
-    [SerializeField] private UnitManager.Type type;
-    [SerializeField] private float speed;
+    public UnitManager.Type type;
+    public float speed;
 }
