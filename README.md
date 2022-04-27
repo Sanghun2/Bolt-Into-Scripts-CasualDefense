@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=IONpYgEfk40&t=771s
 * 메인화면 이미지 배치
 
 ### 2. 패럴랙스를 곁들인 카메라 이동
+![2](https://user-images.githubusercontent.com/50513500/165430796-9e57e26f-eed3-4b9a-900c-63271ebd2cf2.gif)
 
 ##### 구현
 * 화면이동 기능
